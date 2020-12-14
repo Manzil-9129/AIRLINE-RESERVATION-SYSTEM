@@ -1,0 +1,13 @@
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\bin\Debug\netcoreapp3.1\Array ,loop and method Assignment.exe
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\bin\Debug\netcoreapp3.1\Array ,loop and method Assignment.deps.json
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\bin\Debug\netcoreapp3.1\Array ,loop and method Assignment.runtimeconfig.json
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\bin\Debug\netcoreapp3.1\Array ,loop and method Assignment.runtimeconfig.dev.json
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\bin\Debug\netcoreapp3.1\Array ,loop and method Assignment.dll
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\bin\Debug\netcoreapp3.1\Array ,loop and method Assignment.pdb
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.AssemblyInfoInputs.cache
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.AssemblyInfo.cs
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.csproj.CoreCompileInputs.cache
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.dll
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.pdb
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.genruntimeconfig.cache
+D:\Array ,loop and method Assignment\Array ,loop and method Assignment\obj\Debug\netcoreapp3.1\Array ,loop and method Assignment.csprojAssemblyReference.cache
